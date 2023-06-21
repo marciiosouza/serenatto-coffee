@@ -56,7 +56,9 @@ Se você deseja entrar em contato comigo, pode me encontrar nos seguintes canais
       
 </div>
 
-
+##
+### Licença
+Este projeto está licenciado sob a Licença MIT.
 ##
 
 ###### Sinta-se à vontade para explorar o projeto de portfólio e conhecer um pouco mais sobre mim e meu trabalho. Obrigado pela visita!
