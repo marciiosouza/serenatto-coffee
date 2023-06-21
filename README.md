@@ -1,6 +1,8 @@
 # :coffee: Serenatto Coffee
 
-Este é o meu projeto de portfólio pessoal, este projeto tem como objetivo apresentar minhas habilidades técnicas, experiência profissional e demonstrar meu estilo de desenvolvimento.
+> Este é o meu projeto de portfólio pessoal, este projeto tem como objetivo apresentar minhas habilidades técnicas, experiência profissional e demonstrar meu estilo de desenvolvimento.
+
+Bem-vindo ao Website Serenatto Coffee, uma loja virtual cuidadosamente desenvolvida para os amantes de café e apreciadores de delícias gastronômicas. Nosso site oferece uma experiência única de compras online, onde você encontrará uma seleção irresistível de cafés especiais, salgados saborosos, doces tentadores e muito mais.
 
 ##
 ##### Visão geral
@@ -26,9 +28,9 @@ Este é o meu projeto de portfólio pessoal, este projeto tem como objetivo apre
 </div>
 <br>
 
->HTML5, CSS3 e JavaScript para a estrutura, estilo e interatividade do site.
-Frameworks como Bootstrap.
->Git para controle de versão e colaboração no desenvolvimento do projeto.
+> - HTML5, CSS3 e JavaScript para a estrutura, estilo e interatividade do site.
+> - Frameworks como Bootstrap.
+> - Git para controle de versão e colaboração no desenvolvimento do projeto.
 
 ##
 
@@ -37,7 +39,7 @@ Frameworks como Bootstrap.
 Clone o repositório: 
 
 ```
-git clone https://github.com/seu-usuario/serenatto-coffee.git
+git clone https://github.com/marciiosouza/serenatto-coffee.git
 ```
 > Navegue até o diretório do projeto: cd nome-do-repositorio
 Abra o arquivo index.html em um navegador da web.
